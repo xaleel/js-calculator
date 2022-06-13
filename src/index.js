@@ -180,7 +180,7 @@ class App extends Component {
                 {'Made by '}
                 <a href='https://xaleel.github.io/' target="_blank" rel="noopener noreferrer">Khaleel</a>
                 {' @ 2022. '}
-                <a href='https://github.com/xaleel/Markdown-Previewer' target="_blank" rel="noopener noreferrer">Source code</a>.
+                <a href='https://github.com/xaleel/js-calculator/' target="_blank" rel="noopener noreferrer">Source code</a>.
               </p>
           </div>
       </div>

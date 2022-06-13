@@ -132,4 +132,5 @@ h4:hover, #add:hover, #divide:hover, #multiply:hover, #substract:hover{
     bottom: 1rem;
     left: 50%;
     transform: translateX(-50%);
+    font-size: 90%;
 }
