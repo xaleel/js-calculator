@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Calculator/static/js/main.04172e82.js",
-    "index.html": "/Calculator/index.html",
-    "main.04172e82.js.map": "/Calculator/static/js/main.04172e82.js.map"
+    "main.js": "/js-calculator/static/js/main.04172e82.js",
+    "index.html": "/js-calculator/index.html",
+    "main.04172e82.js.map": "/js-calculator/static/js/main.04172e82.js.map"
   },
   "entrypoints": [
     "static/js/main.04172e82.js"
