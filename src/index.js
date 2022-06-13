@@ -175,6 +175,14 @@ class App extends Component {
           <h4 id='zero'>0</h4>
           <h4 id='decimal'>.</h4>
         </div>
+        <div className='footer'>
+              <p>
+                {'Made by '}
+                <a href='https://xaleel.github.io/' target="_blank" rel="noopener noreferrer">Khaleel</a>
+                {' @ 2022. '}
+                <a href='https://github.com/xaleel/Markdown-Previewer' target="_blank" rel="noopener noreferrer">Source code</a>.
+              </p>
+          </div>
       </div>
     )
   }
