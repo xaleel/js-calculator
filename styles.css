@@ -126,3 +126,10 @@ h4:hover, #add:hover, #divide:hover, #multiply:hover, #substract:hover{
 #add, #divide, #multiply, #substract {
     background-color: rgb(66, 66, 66);
 }
+
+.footer{
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
